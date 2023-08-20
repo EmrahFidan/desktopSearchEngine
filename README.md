@@ -6,7 +6,7 @@
   </a>
 
 
-<h1 style="color: #fee440;">  Desktop Search Engine </h1>
+<h1 style="color: #fee440;"> 🖥️  Desktop Search Engine </h1>
 
 This repo is a C project designed to examine the words in the content of (.txt) of the doays in the folder and find the words we are looking for.
 
@@ -18,10 +18,10 @@ This repo is a C project designed to examine the words in the content of (.txt) 
 
 <h2 style="color: #fee440;"> Customized </h1>
 
-### file1,file2,file3,file4,file5,.... 
+##### file1,file2,file3,file4,file5,.... 
 - You can put the content of these files (.txt) and the numbers you want.
 
-### ignore.txt
+##### ignore.txt
 - You should put the words you want to be ignored here.
 
 <h2 style="color: #0081a7;"> Screenshots </h2>
