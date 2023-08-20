@@ -1,0 +1,2 @@
+ the first case is that of the wide flanged beam with convective heat transfer into the outer faces of the flanges. 
+    The second case considered is that of convective heat transfer into one side of a flat 
