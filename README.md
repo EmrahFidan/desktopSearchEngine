@@ -1,49 +1,46 @@
 
-![C](https://img.shields.io/badge/Language-C-green.svg)
-[![Developed with Dev-C++](https://img.shields.io/badge/Developed%20with-Dev--C%2B%2B-blue)](https://www.bloodshed.net/devcpp.html) 
+![C](https://img.shields.io/badge/Language-C-darkgreen.svg)
+[![Developed with Dev-C++](https://img.shields.io/badge/Developed%20with-Dev--C%2B%2B-purple)](https://www.bloodshed.net/devcpp.html) 
+<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
 
 
-<h1 style="color: #fee440;">  C LC </h1>
+<h1 style="color: #fee440;">  Desktop Search Engine </h1>
 
-This project is the project folder I use to learn C syntax, with basic and intermediate project examples.
-
+This repo is a C project designed to examine the words in the content of (.txt) of the doays in the folder and find the words we are looking for.
 
 <h2 style="color: #fee440;"> Features </h1>
 
-- C
-- download .exe
-- LC -> Learnig Code 
-
-<h2 style="color: #fee440;"> Adds </h1>
+- Customizable
+- Clean code 
 
 
-| File Name | Topics                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Create Figure    | 3 different shape representations using '*'                   |
-| Continue    | [Kullanıcının girdiği sayıya kadar devam et](https://drive.google.com/file/d/1djk30d7MkoBeFdmQ1h7ng0P1dACiotHe/view?usp=sharing)                                  |
-| Wind Calculation    |                     [Switch-case example](https://drive.google.com/file/d/13uFC_6mlbs2na5gtac034trMOjhvK5P_/view?usp=sharing)                             |
-| Prime Numbers   |                                            [Finding the sum of the prime numbers between the 2 values entered](https://drive.google.com/file/d/1deyYCjlbyu11AkkuIWUzvurHIO2pVEJ6/view?usp=sharing)                                             |
-| Fraction Calculation    | Solving the given math account|
+<h2 style="color: #fee440;"> Customized </h1>
 
+### file1,file2,file3,file4,file5,.... 
+- You can put the content of these files (.txt) and the numbers you want.
+
+### ignore.txt
+- You should put the words you want to be ignored here.
+
+<h2 style="color: #0081a7;"> Screenshots </h2>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/EmrahFidan/educationApp/assets/114583209/601d857f-cc61-4458-89ca-20fae223402a" alt="Screenshot 1" width="800" style="margin-right: 10px;" />
+
+</div>
 
 
 <h2 style="color: #fee440;"> Lessons Learned </h1>
 
-Being able to do anything with a software language. I think it will be used more than python over time. I even think it should be the language of introduction to the software.
+File operations can be quite challenging because sometimes I got errors in the file path.
 
-Its use is quite enjoyable and the most up-to-date developing software language, especially its frameworks are quite useful. 
+I also learned and used the use of recursive functions with this project.
 
-In general, I had problems with the installations.
+Recursive functions are functions that call themselves and solve the process by dividing it into smaller sub-problems. This approach allows to break complex problems into more understandable and manageable parts. But the important thing is that the recursive function includes a termination condition and continues to call itself until this condition occurs.
 
 
 <h2 style="color: #fee440;"> Feedback </h1>
 
 If you have any feedback, please contact me at: emrahfdn.work@gmail.com
-
-
-
-<h2 style="color: #fee440;"> Software developers </h1>
-
-- [@EmrahFidan](https://github.com/EmrahFidan)  for code.
-
-  
