@@ -1,12 +1,28 @@
 
-![C](https://img.shields.io/badge/Language-C-darkgreen.svg)
-[![Developed with Dev-C++](https://img.shields.io/badge/Developed%20with-Dev--C%2B%2B-purple)](https://www.bloodshed.net/devcpp.html) 
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+<h1 align="center">
+<br>
+🖥️  Desktop Search Engine
+</h1>
+
+<h3 align="center">
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?logo=github&style=social"/>
   </a>
+  <a href="https://img.shields.io/badge/Language-C-darkblue.svg" target="_blank">
+  <img alt="C" src="https://img.shields.io/badge/Language-C-darkblue.svg"/>
+</a>
+<a href="https://www.bloodshed.net/devcpp.html" target="_blank">
+  <img alt="Developed with Dev-C++" src="https://img.shields.io/badge/Developed%20with-Dev--C%2B%2B-darkred"/>
+</a>
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/desktopSearchEngine/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkgreen"/>
+  </a>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/" >
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&style=social"/>
+  </a>
+</h3>
+<br>
 
-
-<h1 style="color: #fee440;"> 🖥️  Desktop Search Engine </h1>
 
 This repo is a C project designed to examine the words in the content of (.txt) of the doays in the folder and find the words we are looking for.
 
