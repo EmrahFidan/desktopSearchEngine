@@ -26,10 +26,14 @@
 
 This repo is a C project designed to examine the words in the content of (.txt) of the doays in the folder and find the words we are looking for.
 
-<h2 style="color: #fee440;"> Features </h1>
+<h2 style="color: #fee440;"> Features </h2>
 
-- Customizable
-- Clean code 
+Here are some of the key features of this project:
+
+- Customizable: This project is designed with customization in mind. You can easily tailor it to your specific needs and requirements, making it a versatile solution for various use cases.
+
+- Clean Code: The project maintains a high standard of clean and well-organized code. This not only enhances readability but also simplifies maintenance and future development.
+
 
 
 <h2 style="color: #fee440;"> Customized </h1>
@@ -54,9 +58,9 @@ File operations can be quite challenging because sometimes I got errors in the f
 
 I also learned and used the use of recursive functions with this project.
 
-Recursive functions are functions that call themselves and solve the process by dividing it into smaller sub-problems. This approach allows to break complex problems into more understandable and manageable parts. But the important thing is that the recursive function includes a termination condition and continues to call itself until this condition occurs.
+Recursive functions are functions that call themselves and solve the process by breaking it down into smaller sub-problems. This approach allows complex problems to be broken down into more understandable and manageable parts. But the important thing is that the recursive function includes a termination condition and continues to call itself until this condition is met.
 
 
-<h2 style="color: #fee440;"> Feedback </h1>
+<h2 style="colour: #fee440;"> Feedback </h1>
 
 If you have any feedback, please contact me at: emrahfdn.work@gmail.com
